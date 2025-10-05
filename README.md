@@ -58,8 +58,8 @@ inventory-api/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/inventory-api.git
-cd inventory-api
+git clone https://github.com/ChandgudeNishant/Verto-ASE-Challenge.git
+cd Verto-ASE-Challenge
 ```
 
 ### 2. Install Dependencies
